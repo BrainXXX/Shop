@@ -1,0 +1,7 @@
+﻿Add-migration Initial
+EntityFrameworkCore\Add-Migration Initial
+
+Update-Database
+EntityFrameworkCore\Update-Database
+
+Remove-Migration
